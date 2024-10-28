@@ -27,7 +27,6 @@ public class Exercicio3 {
 		
 		System.out.println("Salário Líquido: " + sliquido);
 		
-		sc.close();
 		
 		
 	}
