@@ -6,7 +6,7 @@ public class Exercicio5 {
 	public static void main(String[] args) {
 		double valor;
 		
-		 String produtos = "Código do Produto | Produto              | Preço Unitário\n" +
+		String produtos = "Código do Produto | Produto              | Preço Unitário\n" +
                  "-----------------------------------------------\n" +
                  "1                 | Cachorro Quente      | R$ 10.00\n" +
                  "2                 | X-Salada            | R$ 15.00\n" +
@@ -15,7 +15,7 @@ public class Exercicio5 {
                  "5                 | Refrigerante        | R$ 8.00\n" +
                  "6                 | Suco de laranja     | R$ 13.00\n";
 		 
-		 System.out.println(produtos);
+		System.out.println(produtos);
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Código do Produto");
