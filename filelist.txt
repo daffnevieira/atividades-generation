@@ -1,0 +1,2979 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç F833-393E
+
+ Pasta de C:\Users\daffn\Documents\java.atividades
+
+29/10/2024  11:57    <DIR>          .
+28/10/2024  13:39    <DIR>          ..
+29/10/2024  11:14                12 .gitignore
+29/10/2024  10:53    <DIR>          .metadata
+29/10/2024  11:57                 0 filelist.txt
+29/10/2024  11:56                 0 hashes.txt
+29/10/2024  11:53    <DIR>          javaAtividade
+               3 arquivo(s)             12 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git
+
+29/10/2024  11:57    <DIR>          ..
+28/10/2024  15:48                 9 COMMIT_EDITMSG
+28/10/2024  15:48               316 config
+28/10/2024  14:51                73 description
+28/10/2024  14:54                21 HEAD
+28/10/2024  14:51    <DIR>          hooks
+28/10/2024  15:45            30.519 index
+28/10/2024  14:51    <DIR>          info
+28/10/2024  14:53    <DIR>          logs
+28/10/2024  15:48    <DIR>          objects
+28/10/2024  14:54    <DIR>          refs
+               5 arquivo(s)         30.938 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\hooks
+
+28/10/2024  14:51    <DIR>          .
+28/10/2024  14:51               478 applypatch-msg.sample
+28/10/2024  14:51               896 commit-msg.sample
+28/10/2024  14:51             4.726 fsmonitor-watchman.sample
+28/10/2024  14:51               189 post-update.sample
+28/10/2024  14:51               424 pre-applypatch.sample
+28/10/2024  14:51             1.649 pre-commit.sample
+28/10/2024  14:51               416 pre-merge-commit.sample
+28/10/2024  14:51             1.374 pre-push.sample
+28/10/2024  14:51             4.898 pre-rebase.sample
+28/10/2024  14:51               544 pre-receive.sample
+28/10/2024  14:51             1.492 prepare-commit-msg.sample
+28/10/2024  14:51             2.783 push-to-checkout.sample
+28/10/2024  14:51             2.308 sendemail-validate.sample
+28/10/2024  14:51             3.650 update.sample
+              14 arquivo(s)         25.827 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\info
+
+28/10/2024  14:51    <DIR>          .
+28/10/2024  14:51               240 exclude
+               1 arquivo(s)            240 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\logs
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48               687 HEAD
+28/10/2024  14:54    <DIR>          refs
+               1 arquivo(s)            687 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\logs\refs
+
+28/10/2024  14:54    <DIR>          .
+28/10/2024  14:53    <DIR>          ..
+28/10/2024  14:54    <DIR>          heads
+28/10/2024  14:54    <DIR>          remotes
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\logs\refs\heads
+
+28/10/2024  14:54    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+28/10/2024  15:48               505 main
+               1 arquivo(s)            505 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\logs\refs\remotes
+
+28/10/2024  14:54    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+28/10/2024  14:54    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\logs\refs\remotes\origin
+
+28/10/2024  14:54    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+28/10/2024  15:48               292 main
+               1 arquivo(s)            292 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects
+
+28/10/2024  15:48    <DIR>          .
+28/10/2024  15:45    <DIR>          00
+28/10/2024  15:35    <DIR>          02
+28/10/2024  14:53    <DIR>          06
+28/10/2024  15:45    <DIR>          08
+28/10/2024  15:35    <DIR>          0a
+28/10/2024  14:53    <DIR>          0b
+28/10/2024  14:52    <DIR>          0c
+28/10/2024  14:52    <DIR>          0d
+28/10/2024  14:52    <DIR>          0e
+28/10/2024  14:52    <DIR>          0f
+28/10/2024  14:52    <DIR>          10
+28/10/2024  15:45    <DIR>          11
+28/10/2024  15:45    <DIR>          12
+28/10/2024  15:45    <DIR>          13
+28/10/2024  14:52    <DIR>          14
+28/10/2024  14:53    <DIR>          15
+28/10/2024  14:53    <DIR>          16
+28/10/2024  15:35    <DIR>          17
+28/10/2024  14:52    <DIR>          18
+28/10/2024  14:53    <DIR>          1a
+28/10/2024  14:53    <DIR>          1d
+28/10/2024  15:35    <DIR>          20
+28/10/2024  14:52    <DIR>          21
+28/10/2024  15:45    <DIR>          22
+28/10/2024  15:45    <DIR>          23
+28/10/2024  14:52    <DIR>          25
+28/10/2024  14:52    <DIR>          26
+28/10/2024  14:52    <DIR>          27
+28/10/2024  14:53    <DIR>          28
+28/10/2024  15:35    <DIR>          29
+28/10/2024  15:35    <DIR>          2a
+28/10/2024  15:44    <DIR>          2b
+28/10/2024  15:35    <DIR>          2c
+28/10/2024  15:45    <DIR>          2d
+28/10/2024  15:44    <DIR>          2e
+28/10/2024  14:53    <DIR>          2f
+28/10/2024  14:52    <DIR>          30
+28/10/2024  14:53    <DIR>          31
+28/10/2024  15:44    <DIR>          33
+28/10/2024  15:45    <DIR>          37
+28/10/2024  15:35    <DIR>          39
+28/10/2024  15:45    <DIR>          3a
+28/10/2024  14:52    <DIR>          3c
+28/10/2024  14:53    <DIR>          3d
+28/10/2024  14:53    <DIR>          3e
+28/10/2024  14:53    <DIR>          3f
+28/10/2024  15:44    <DIR>          41
+28/10/2024  15:35    <DIR>          42
+28/10/2024  15:44    <DIR>          43
+28/10/2024  15:44    <DIR>          44
+28/10/2024  15:35    <DIR>          45
+28/10/2024  15:35    <DIR>          46
+28/10/2024  14:53    <DIR>          47
+28/10/2024  15:44    <DIR>          48
+28/10/2024  14:53    <DIR>          49
+28/10/2024  14:52    <DIR>          4a
+28/10/2024  14:53    <DIR>          4b
+28/10/2024  15:45    <DIR>          4d
+28/10/2024  15:35    <DIR>          4e
+28/10/2024  15:45    <DIR>          4f
+28/10/2024  14:53    <DIR>          51
+28/10/2024  15:44    <DIR>          53
+28/10/2024  15:35    <DIR>          54
+28/10/2024  14:53    <DIR>          56
+28/10/2024  14:53    <DIR>          57
+28/10/2024  14:52    <DIR>          58
+28/10/2024  14:52    <DIR>          59
+28/10/2024  14:52    <DIR>          5a
+28/10/2024  15:44    <DIR>          5b
+28/10/2024  14:52    <DIR>          5c
+28/10/2024  14:53    <DIR>          5e
+28/10/2024  15:44    <DIR>          5f
+28/10/2024  14:53    <DIR>          61
+28/10/2024  14:52    <DIR>          62
+28/10/2024  15:45    <DIR>          63
+28/10/2024  14:53    <DIR>          64
+28/10/2024  14:53    <DIR>          65
+28/10/2024  14:53    <DIR>          66
+28/10/2024  14:53    <DIR>          67
+28/10/2024  14:52    <DIR>          6b
+28/10/2024  15:45    <DIR>          6c
+28/10/2024  15:35    <DIR>          6f
+28/10/2024  14:52    <DIR>          71
+28/10/2024  14:52    <DIR>          72
+28/10/2024  14:53    <DIR>          73
+28/10/2024  14:52    <DIR>          75
+28/10/2024  14:52    <DIR>          77
+28/10/2024  15:45    <DIR>          78
+28/10/2024  14:52    <DIR>          7a
+28/10/2024  14:52    <DIR>          7d
+28/10/2024  15:45    <DIR>          7f
+28/10/2024  14:53    <DIR>          80
+28/10/2024  14:52    <DIR>          82
+28/10/2024  15:44    <DIR>          83
+28/10/2024  14:52    <DIR>          85
+28/10/2024  14:53    <DIR>          86
+28/10/2024  14:52    <DIR>          87
+28/10/2024  15:48    <DIR>          88
+28/10/2024  14:53    <DIR>          8b
+28/10/2024  14:53    <DIR>          8c
+28/10/2024  14:52    <DIR>          8d
+28/10/2024  15:35    <DIR>          8e
+28/10/2024  14:52    <DIR>          8f
+28/10/2024  14:53    <DIR>          94
+28/10/2024  14:53    <DIR>          95
+28/10/2024  15:45    <DIR>          97
+28/10/2024  14:52    <DIR>          98
+28/10/2024  15:35    <DIR>          99
+28/10/2024  15:45    <DIR>          9a
+28/10/2024  14:53    <DIR>          9b
+28/10/2024  14:52    <DIR>          9c
+28/10/2024  14:52    <DIR>          9e
+28/10/2024  14:52    <DIR>          9f
+28/10/2024  14:53    <DIR>          a0
+28/10/2024  15:45    <DIR>          a1
+28/10/2024  15:44    <DIR>          a2
+28/10/2024  14:52    <DIR>          a3
+28/10/2024  14:52    <DIR>          a4
+28/10/2024  14:53    <DIR>          a5
+28/10/2024  15:44    <DIR>          a7
+28/10/2024  14:53    <DIR>          a8
+28/10/2024  15:35    <DIR>          a9
+28/10/2024  14:53    <DIR>          aa
+28/10/2024  14:52    <DIR>          ab
+28/10/2024  14:52    <DIR>          ac
+28/10/2024  14:53    <DIR>          ae
+28/10/2024  14:52    <DIR>          af
+28/10/2024  15:45    <DIR>          b1
+28/10/2024  14:53    <DIR>          b2
+28/10/2024  14:53    <DIR>          b3
+28/10/2024  14:52    <DIR>          b4
+28/10/2024  15:45    <DIR>          b5
+28/10/2024  14:52    <DIR>          b6
+28/10/2024  14:52    <DIR>          b7
+28/10/2024  14:52    <DIR>          b9
+28/10/2024  14:52    <DIR>          ba
+28/10/2024  14:52    <DIR>          bb
+28/10/2024  15:45    <DIR>          bd
+28/10/2024  14:53    <DIR>          be
+28/10/2024  15:45    <DIR>          bf
+28/10/2024  15:45    <DIR>          c2
+28/10/2024  14:52    <DIR>          c3
+28/10/2024  14:53    <DIR>          c4
+28/10/2024  15:45    <DIR>          c5
+28/10/2024  14:52    <DIR>          c6
+28/10/2024  14:52    <DIR>          c8
+28/10/2024  15:45    <DIR>          cb
+28/10/2024  14:52    <DIR>          cc
+28/10/2024  15:35    <DIR>          cd
+28/10/2024  14:53    <DIR>          ce
+28/10/2024  15:45    <DIR>          cf
+28/10/2024  15:45    <DIR>          d0
+28/10/2024  14:52    <DIR>          d1
+28/10/2024  14:53    <DIR>          d2
+28/10/2024  14:52    <DIR>          d3
+28/10/2024  15:35    <DIR>          d4
+28/10/2024  14:52    <DIR>          d5
+28/10/2024  14:53    <DIR>          d6
+28/10/2024  15:35    <DIR>          d7
+28/10/2024  14:53    <DIR>          d8
+28/10/2024  15:45    <DIR>          d9
+28/10/2024  14:52    <DIR>          dc
+28/10/2024  15:44    <DIR>          dd
+28/10/2024  14:52    <DIR>          de
+28/10/2024  15:35    <DIR>          e0
+28/10/2024  15:45    <DIR>          e1
+28/10/2024  15:45    <DIR>          e2
+28/10/2024  14:52    <DIR>          e3
+28/10/2024  14:53    <DIR>          e5
+28/10/2024  14:52    <DIR>          e6
+28/10/2024  15:45    <DIR>          e8
+28/10/2024  14:52    <DIR>          e9
+28/10/2024  14:52    <DIR>          ea
+28/10/2024  15:45    <DIR>          ec
+28/10/2024  15:45    <DIR>          ed
+28/10/2024  14:52    <DIR>          ef
+28/10/2024  14:53    <DIR>          f0
+28/10/2024  15:35    <DIR>          f2
+28/10/2024  14:53    <DIR>          f3
+28/10/2024  14:52    <DIR>          f6
+28/10/2024  14:52    <DIR>          f7
+28/10/2024  15:45    <DIR>          f8
+28/10/2024  14:53    <DIR>          f9
+28/10/2024  14:52    <DIR>          fa
+28/10/2024  14:53    <DIR>          fd
+28/10/2024  14:53    <DIR>          ff
+28/10/2024  14:51    <DIR>          info
+28/10/2024  14:51    <DIR>          pack
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\00
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                66 21870fb1741beb115695bc78dcf74baef6a4b1
+28/10/2024  14:53                77 827ca2370a54b2a20b45ac4dec30af9ade2ef9
+28/10/2024  14:52           973.544 c7feeb752539a27dc6cedc07f429ce67a732ca
+               3 arquivo(s)        973.687 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\02
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               211 5b90a6ced3f44bfa60dbc8809bcfadbd05f7f2
+28/10/2024  15:35                65 b70a0a9d35467ac35a6d1422809c1a2fe635ee
+28/10/2024  14:52                93 ceca75a09dbc71a49050236ceced2d4df52f70
+               3 arquivo(s)            369 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\06
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                54 049768ab0405bc4b17b8937ba0664e01d60f91
+28/10/2024  14:52               255 c7af2c898c1aa91c61ad73c2e4bedd89e90979
+               2 arquivo(s)            309 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\08
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45             3.100 dea5e30cf43d715d0d9b94a7cc70acd1b1898a
+               1 arquivo(s)          3.100 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\0a
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35             2.950 4bda23bd03759adf3522b9cc3cfbcd7edf439e
+28/10/2024  14:52               369 ffc5e6dc3d919b9d994f96a64fee019c6f0040
+               2 arquivo(s)          3.319 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\0b
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               104 09b0cffff55231aeb8f151d5779e38b5a94072
+               1 arquivo(s)            104 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\0c
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               284 b3e051370bf1692efa083939ae35a0f53b22cf
+               1 arquivo(s)            284 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\0d
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               211 1ff8ffc63f27fb55a17e4464e717868d535dae
+               1 arquivo(s)            211 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\0e
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               110 578ced18fca7f8490e0a8da06111234a024c62
+               1 arquivo(s)            110 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\0f
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                71 47be25015f9fc8dc47b659438b9f8a2b53f57c
+               1 arquivo(s)             71 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\10
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               152 03235ca6a6013629917b46ac813c808aab7e3d
+28/10/2024  14:52               327 baacd3e391c01c7ab2be808cfa0c4f798c78b4
+               2 arquivo(s)            479 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\11
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               717 23b6232c3db9be19e66bdaeb8aced904ba1a7a
+28/10/2024  14:53                63 8fa4c7bb35cb251f9d7dcb54e4af5f8187cba1
+               2 arquivo(s)            780 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\12
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               141 28548c467046ed5d6314e1f93da766eb15ceba
+28/10/2024  15:45                77 cc1e2942a640dc8fab9732671bc47e1f54d649
+28/10/2024  15:44               896 cc9adc8c7041dd385f035175df8336e8d0609b
+               3 arquivo(s)          1.114 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\13
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               663 5698266516dc479445aea6cabda34cc2494184
+28/10/2024  14:52               196 8078e819f0ca580b381d4e865a7afe676a5a89
+28/10/2024  15:45                75 814ce1bfa2f645bf4385611ad393f018f73c08
+               3 arquivo(s)            934 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\14
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               668 3f7e957ad0c8d36753a0a2eb1b7855f08983ee
+               1 arquivo(s)            668 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\15
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                77 04bb7726ee7a1265422970f5b6d320c91ea6d5
+28/10/2024  14:52               407 05ca67797da84cf464631048848d78d3f510da
+28/10/2024  14:53                46 1efda13a76d657cf35305b7d583ac10be62526
+               3 arquivo(s)            530 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\16
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                44 b6a1b168ee499378ccd2f1bc6e43f000db5c4c
+               1 arquivo(s)             44 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\17
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44               325 eb0e814ae637a8382633a98fd33e6adc079c7d
+               1 arquivo(s)            325 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\18
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               159 8ef838c715d807996949f5307c28a5d1d2c2b2
+               1 arquivo(s)            159 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\1a
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                89 2687d7207bbeb77c2f6e5a42b9fd89a2853e48
+28/10/2024  14:52               194 f1e5c24aec84c1b7e58d81e6dc7b1529a20b1f
+               2 arquivo(s)            283 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\1d
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               327 2581e17d59c2bee03794652001c0a57e235676
+28/10/2024  14:53                70 534f4444dd245ce73ffdbef82e1d1eec7eff22
+28/10/2024  14:53               116 84427408a1e620956a1a29a56f0301133ccb54
+               3 arquivo(s)            513 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\20
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               813 cbee3dd305fb28e61bd9b934d231023b278676
+28/10/2024  14:52               288 d050bd17bf6b1fb992e076905e96ac70e63a43
+               2 arquivo(s)          1.101 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\21
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               100 f3d8f354fd926762a007e3640140ac93198a07
+               1 arquivo(s)            100 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\22
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               294 207af7bf01f9a346c7e1f249ada79a011c0ebf
+28/10/2024  15:45               177 d4a2f87ac3373aad9b6551e2df31855c9a3582
+               2 arquivo(s)            471 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\23
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                93 2606aafc069a7ed1d1dbe84c4f30bd1dda09c4
+28/10/2024  14:52            66.415 6eb6b405b50b0bf2ba34cb65eec569098551ff
+28/10/2024  15:45               679 75f48678c94f03a5c669e06c0d9a3667025e43
+28/10/2024  14:52             1.256 f3704de952673d85292ab9512345bc35f9b8a5
+               4 arquivo(s)         68.443 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\25
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                16 cb955ba23571f6fefd57cecf5f67454210bbc8
+               1 arquivo(s)             16 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\26
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               249 6e0fde7bf02d8bafd5fb83c94e39d95c6e4a11
+               1 arquivo(s)            249 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\27
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               284 3a1a56dbaad5e03ea22ffcdc8827566d5c55f2
+               1 arquivo(s)            284 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\28
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                55 0746366fecd57ea50c95e0e6189a305520dd74
+28/10/2024  14:53               177 0cc4c0e238559615f232cf5b12b1bc5daf1a44
+28/10/2024  14:53                93 b4a1586b2ed98d665557c01cb3bd2102580f24
+               3 arquivo(s)            325 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\29
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               896 c650b781d9cee5d8a40802b0578ef908610e31
+               1 arquivo(s)            896 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\2a
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               135 207b1de7d69b0e7d1ca3c8feb843b5b8d00ce4
+28/10/2024  15:35            66.541 fa5f8b7b7c94387001add4690b240e418124fa
+               2 arquivo(s)         66.676 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\2b
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                69 0c141eda44f2739120b1ac16458383556fd919
+28/10/2024  15:44           975.432 1d5d9af1f6a7ed7e49f1dae9e0215af4c7c3bf
+28/10/2024  14:52               134 da128fa4c823527e0dcfdb3567f2d4d9e1b049
+               3 arquivo(s)        975.635 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\2c
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               390 967508c3141fc590280ff7b512e7e369433bf9
+               1 arquivo(s)            390 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\2d
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                76 0f95766b9bb6633099c940a3f13fc029a332c7
+28/10/2024  14:52             1.288 1f6498552b1c068afc7ab8a5e75bcc682aad58
+28/10/2024  14:53                58 637d6ca9ede7953594fbe3d8cb98291fd2637c
+28/10/2024  15:45               101 a6ab00d0a1702b1e4722bf806a1af13e6f3929
+28/10/2024  14:53                58 e0b8919132d8f0162d6000a17f9e2c7e83ab6e
+               5 arquivo(s)          1.581 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\2e
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44             3.118 8655342202112620a0f1ffb5774eee3da3ebd3
+               1 arquivo(s)          3.118 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\2f
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               499 3614b6c8db6dcb16dee5cf95490141712af2df
+28/10/2024  14:53                44 8253910665bcd81a285082c918a2d483082a9e
+               2 arquivo(s)            543 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\30
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                61 841ebf3674439d2ef6c5353f794c4a64ec1903
+28/10/2024  14:52               347 ea7af4555604bf48aeb49523f7c33460c83f23
+               2 arquivo(s)            408 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\31
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                44 9749fdf1ac0910704f73fb199c1c269b31742f
+28/10/2024  14:53                77 d369d169605fa0983ef821c55a5736ff923385
+28/10/2024  14:52               101 df02ce4be289e9202726c1adc49d4c3c0af9a2
+               3 arquivo(s)            222 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\33
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               318 eb83930c7015fd4aff1fe557f47b8bd7fe5370
+28/10/2024  15:35               285 f33354d4db71f265f1d19b2d2b2eb4f81373da
+28/10/2024  15:44             2.347 f413a0dd777ff7b881ee2aabc90a98f7b1e3c6
+               3 arquivo(s)          2.950 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\37
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                50 6527de0a0310ed7b7715e1afb505adf71183cb
+               1 arquivo(s)             50 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\39
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               692 ae41f0ee6c75e751542dff22aa9b004665edf6
+28/10/2024  14:52               370 fea58360b6c46c62bd17de4f1491bab9203e57
+               2 arquivo(s)          1.062 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\3a
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                77 2628dc6f78208b72d84c6abacff49364b0db09
+28/10/2024  14:52               318 c13dfb570b7454f7686be89269ca2b9507fe84
+               2 arquivo(s)            395 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\3c
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               155 10856198aeaf2f249bebf356eb72deb3e0dc71
+               1 arquivo(s)            155 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\3d
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               210 1fdb619b336a4e6c1823e931f798591992ce91
+28/10/2024  14:53                77 c3c354c3866d3d50572ce73211f0228508d8a9
+28/10/2024  14:53                64 dcc05e2d205f7488ba9ea84b1a83db0ba27281
+               3 arquivo(s)            351 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\3e
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                58 27659be2eb37991abe2d8d44ce357318050204
+28/10/2024  14:52               362 37acef9e41d21cd142e81b2d29737d7be7d47e
+               2 arquivo(s)            420 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\3f
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                77 468c281396b3cf31fee600d2f73606cc28d74f
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\41
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                45 660a5c7400495e154299d79f8930537a7d456e
+28/10/2024  15:44                99 7e71e7bd110da32726e9312adc8136892cae41
+               2 arquivo(s)            144 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\42
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               650 4649cf457d602eb36d2fd4a1e25a10c245f076
+28/10/2024  15:35               790 472d4e526ab898ced21313e59e724c0971a312
+28/10/2024  14:52                61 ec8ea87a0fee0f0b7cbf51836846cc1e90bf38
+               3 arquivo(s)          1.501 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\43
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44               812 d56e38f4506efd96a283b6a6a4952d9de0d351
+28/10/2024  14:53               481 e3005ae6564cef9f039894f220fcc463185a4c
+               2 arquivo(s)          1.293 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\44
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44               312 8989e11b29d4fe615a5f2fd3bf1288d01935b8
+28/10/2024  15:44               287 a71e5d2175e1ef1ee40da919735ed026a0f229
+               2 arquivo(s)            599 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\45
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               378 f012ca359c09c96ceb4ef26200732512bffb4b
+               1 arquivo(s)            378 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\46
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               579 705cbbefbaa4d06df09d05afcaba95b4f7d3ad
+               1 arquivo(s)            579 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\47
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52             1.446 3bf587b6b1531fb3f0f59aedd3f1881752f855
+28/10/2024  14:53                77 4f2d944f0510282f4ab8af3928dd3fd9109609
+28/10/2024  14:52            12.969 b3041f53e9f68419217f8fc262bc3a9f3e78d8
+               3 arquivo(s)         14.492 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\48
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44               198 0bb22538e8d41143e370fb033fb224b0437e53
+28/10/2024  14:53                54 6116e92caaad7beb44ed242a41c9915a1553c8
+               2 arquivo(s)            252 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\49
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               160 09d6c897231962943034644ca4c28d6241de22
+               1 arquivo(s)            160 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\4a
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               249 02b0a1cc0b608cb6eed0d9e7463deda52e4b3d
+               1 arquivo(s)            249 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\4b
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                60 e0f7184a3fff4179db274bbe779f8acc65f2de
+               1 arquivo(s)             60 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\4d
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               403 80982c4252b382585c8b98a5a2061a30b594fb
+28/10/2024  15:45                70 b56e66dc16700c72861a1be8bcb6590bd344fa
+               2 arquivo(s)            473 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\4e
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               606 03936affcc05157c733f7e466195eb28857130
+28/10/2024  15:35               327 4084335b666851ee6211bcbdc217916bc0224c
+28/10/2024  14:52               163 7bce75c7289321ba9acfc30aee75bac61b4284
+               3 arquivo(s)          1.096 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\4f
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               116 e49346a1e6aa86cf59af8db800b1810837c2a3
+               1 arquivo(s)            116 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\51
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                75 f3acc86b32ca905ee5982d5e952412db5bf8cf
+               1 arquivo(s)             75 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\53
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44               790 bf6586d8a30b6a0066ddbc588533c4a00198e4
+               1 arquivo(s)            790 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\54
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                97 67db03e9723c4d438576cfd2b6065d8d0220eb
+28/10/2024  15:35               312 e843c306b559befadb003e5cdc7f388ad41456
+               2 arquivo(s)            409 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\56
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                67 8030a6edc494cd90bae051d2ed503771257739
+               1 arquivo(s)             67 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\57
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                85 6785ddbad8be1e3e4fde8a6269034b66b90d87
+28/10/2024  14:53                77 986d50fd06aa012ef98422284ffdd11a778ffb
+28/10/2024  14:52               244 bca72546725f93b294323a769debf40b67ff61
+28/10/2024  14:52               251 d198d4255b8c563fb982c762a92094cdeddddf
+28/10/2024  14:52               300 d9d8409ded1f02a5b744ada27e3acbc695efd6
+               5 arquivo(s)            957 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\58
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52            20.275 a1d4e890e76c8965e79fcb504f8432b3b824f3
+               1 arquivo(s)         20.275 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\59
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                16 3f4708db84ac8fd0f5cc47c634f38c013fe9e4
+               1 arquivo(s)             16 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\5a
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                65 d2a3eb6e855045e04959e09ed4192d39f8ca08
+               1 arquivo(s)             65 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\5b
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               374 409955e00d55c4b0262c26637940b95fffd611
+28/10/2024  15:44               431 a49dab04bde4ebc13803df42f0275c06007503
+28/10/2024  14:53                48 df868ae271c9aee202faaceae104183427195b
+               3 arquivo(s)            853 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\5c
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               101 2463fe809fd31ed0db743c6693415e04801eb3
+28/10/2024  14:52                84 a0b7769013920648b17f3f51ba3e88139fdf0e
+               2 arquivo(s)            185 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\5e
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                88 2e5fafdb6d6e6cd140a682887a1b2093a2c504
+               1 arquivo(s)             88 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\5f
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               457 06e532f1a6a93fa751537528d8599ba8e51bc6
+28/10/2024  15:44               312 5665cdc4f4eadc3643f4ac778a86f914ea57d7
+               2 arquivo(s)            769 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\61
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                89 01a250a54774c533f44e3d270f396738a0171c
+               1 arquivo(s)             89 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\62
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               484 1b2bdf27b0fc7aa90a713535dc58312e8d0b70
+               1 arquivo(s)            484 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\63
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                77 bf4ce5dd13a4d740866170599ee1665d62c1f5
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\64
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               125 9fdc9772d550c076803c0475011d65b4834fa3
+               1 arquivo(s)            125 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\65
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                77 957007fa721e46bfe4acbf956fcb153b58d37a
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\66
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               144 0590c93b93b09a9d348eab5f4d1de578e31bf4
+               1 arquivo(s)            144 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\67
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                75 b1d96c9b864711771cb82a5df2bd6866879914
+28/10/2024  14:53                46 ef017f0911069b129bd78c067a45fbff11046b
+               2 arquivo(s)            121 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\6b
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                16 2aaa7640726588bcd3d57e1de4b1315b7f315e
+28/10/2024  14:52               122 9b791eb9a76226c35fc88f36449a931ce9c4ed
+28/10/2024  14:52               622 a9d66e41b021bf9146fa65e3e54016470b10c5
+28/10/2024  15:35               278 b977e850cbb3c25ac4fca2a673a4e982fe0a2b
+28/10/2024  14:52             1.258 c659c93c1a99646e1570812e6a2bfda30259e5
+               5 arquivo(s)          2.296 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\6c
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                77 aaefdb9ca40c4a7e2f4691e84d60cda241a714
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\6f
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               136 a8b3cbc5c0922f98962980195d6caca3bfadc8
+28/10/2024  14:53                94 d3aaa374f45d9f5e0738fabc270cdd9498a0ff
+               2 arquivo(s)            230 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\71
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               136 2b513caad1ac8a2b5dd6c2da9f854485e59ad5
+28/10/2024  14:52             1.605 ed31e4b640d717fec84e992218046160533099
+               2 arquivo(s)          1.741 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\72
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               262 2e95598b81961b8243773e62838e1a35a9171c
+               1 arquivo(s)            262 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\73
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               170 3b35bc2cb85fd37d0c50d9da9896479ece06c8
+28/10/2024  14:53               145 e2c48b890b16edcde37024b5123e2e195b0c85
+               2 arquivo(s)            315 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\75
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               266 59b137f085d98108309d6a093507ad8fff7324
+28/10/2024  14:52               850 a22ca5210cabab0972d4241d4f1a6f2936a9a2
+28/10/2024  14:52               707 ef6a94bc577a659b6a7de442fb979616173ee9
+               3 arquivo(s)          1.823 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\77
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               184 83983aed1da8530d39540093c482bdd2638ea1
+               1 arquivo(s)            184 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\78
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                64 478b4ece9f5c7a473efca5e8a5c327efbe6689
+               1 arquivo(s)             64 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\7a
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                81 3e797ee75aaa66c932f86fde772fbd68deffbf
+               1 arquivo(s)             81 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\7d
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               278 cec0d9c7fed2b090441bda14d616dae78476c6
+               1 arquivo(s)            278 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\7f
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               660 669058b2b625dcb99ac596e023d239b52db899
+28/10/2024  15:45                77 8a4d27a16e2d4b0f044a65786a0f70709f7af0
+               2 arquivo(s)            737 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\80
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                51 69b36b50383ce9bf38f26d9590cb4c425768df
+               1 arquivo(s)             51 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\82
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                86 4488cdc1203185e3365cd6789629ff5273a8cd
+               1 arquivo(s)             86 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\83
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44                96 74be828e50affe34e445644d6d956be01b79ce
+               1 arquivo(s)             96 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\85
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                19 863977890401f7158f3d921ad9a3be30cee75c
+               1 arquivo(s)             19 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\86
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               115 fa109d8ff4efa414f411b98ffb5a8de7ad5ed3
+               1 arquivo(s)            115 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\87
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                87 96d0dda830691aa2f0e5d3048a997ba9d9f323
+               1 arquivo(s)             87 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\88
+
+28/10/2024  15:48    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:48               164 8b1b9eeee524903301ad81c08b345027347081
+28/10/2024  14:52               498 fea355444df61d9d35fc5d2706f127c546be04
+               2 arquivo(s)            662 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\8b
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                76 e3c89559938cfb4806e18999142c37ee410f93
+               1 arquivo(s)             76 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\8c
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               687 1954e30b905e3a083568c2055390579fa4193c
+28/10/2024  14:52               261 aba68a399901898ba38b3fcbf40a24fb5e3188
+               2 arquivo(s)            948 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\8d
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               167 ddfedd1d4366cc8a1ab4469622ab3b8fcd51ac
+               1 arquivo(s)            167 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\8e
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               908 1c5518c64b00aa7f8dece3bf302448613b6517
+28/10/2024  15:35               299 4977072be3c066d5e6c7d3c47932669bacc604
+               2 arquivo(s)          1.207 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\8f
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               356 070443d5e4f8e6338dc1803d2f53ddd920119a
+28/10/2024  14:52               194 9a5b4a73e3264d1a0aab7b16c0c91bc4d6af94
+               2 arquivo(s)            550 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\94
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               304 9b3331dfc9a0626b0e8cfe377b97f45c7e0ab0
+28/10/2024  14:53                77 a51166bd3414af704d0c0ed20fdad742e2a6e7
+               2 arquivo(s)            381 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\95
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                64 6aa6d02926256db08bd862bf4e65e6f92bdfc7
+28/10/2024  14:52             1.052 900eb753357feb65f76bf2045e59c63ff2b813
+               2 arquivo(s)          1.116 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\97
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                52 e6d8fd098c925fda51bd7ddf5168016fbe2e54
+               1 arquivo(s)             52 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\98
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               360 63c6e303ad10745d65ac6202a560fbcb2f4ac9
+28/10/2024  14:52                69 69a798c444630068f42294047c9603292fd581
+               2 arquivo(s)            429 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\99
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               263 8ff46def750b1091d413cbeeca9fded82a9abf
+28/10/2024  14:52                69 f26c0203a7844de00dbfc56e6a35d8ed3c022c
+               2 arquivo(s)            332 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\9a
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                89 18cf801faf67c48d8125fff3f1102e3f1d3b1b
+28/10/2024  15:45                85 c5784fcfa1a23e72ba92f49b448fb6247b63fb
+               2 arquivo(s)            174 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\9b
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               108 228d78b5655d45e128ad77a69527756ac0cbcb
+               1 arquivo(s)            108 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\9c
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                52 d7cf227c9f8cd37b487d296f59294771054b17
+               1 arquivo(s)             52 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\9e
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                79 1bb409bad74bb7d632558299b4ec9fb46c5033
+28/10/2024  14:52               225 f7036d0df2e98ccde92776447f4e4eea203457
+28/10/2024  14:52               592 ffde76cb6690350a757596f922e265cec42873
+               3 arquivo(s)            896 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\9f
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               176 1a3a454f1dd18a739471f23155e07e2f076417
+               1 arquivo(s)            176 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a0
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               105 210fa21656bfcd4de57270f7d6af0d96b9d003
+               1 arquivo(s)            105 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a1
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               641 7a0975de334292de0b72af051a95ac99c34761
+28/10/2024  14:52               124 a1435983decbbe613bb727a95b22fd7cb470d9
+28/10/2024  15:45               144 d65d3f85f8d7932916fa25dff64c8108909f28
+               3 arquivo(s)            909 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a2
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               114 308024b3e580987d248b9049d7b270ad262c4a
+28/10/2024  15:44               265 6a2d4ba8d03c786609287ae262753b6dcd0135
+               2 arquivo(s)            379 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a3
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               220 44770672bb0625185ee3cd80ed256f19ce0b26
+               1 arquivo(s)            220 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a4
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                90 ee3cbc9a7fb4242b2f2becb901674986dc4389
+               1 arquivo(s)             90 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a5
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52             2.722 8c5f6a66548597b1a4ab7f79acf8ea06e205e8
+28/10/2024  14:52               172 d632b019be94eca43b963ad34de69e3269b9fb
+28/10/2024  14:53                77 f87ba237da35f4a36505e6ef46c26d6fcc7296
+               3 arquivo(s)          2.971 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a7
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:44               101 0bacf0b589c729438d25fe9ec6f7e602c9cc9e
+               1 arquivo(s)            101 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a8
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               163 5ab532b34171ea6dec6d2090efa7c3e4239242
+28/10/2024  14:53                77 7ceb98e8a155686de037ff4d66c76de7a2081e
+               2 arquivo(s)            240 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\a9
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               266 59d342541a659980f030fa03b8f6dfe9fce63f
+               1 arquivo(s)            266 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\aa
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                77 0c38a266d28485c891e7c53fb86cb4e971ac44
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ab
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               257 0f6764ec835b393a8ed51118ec8f3f6522d2fd
+28/10/2024  14:52               290 bf8e5211b6a04431b29bc5ab1269fb2676782d
+               2 arquivo(s)            547 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ac
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               265 4877a2279354ba86ff88278f9571ebe740636b
+               1 arquivo(s)            265 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ae
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               101 36b00e7d9b327fbec479d61a79552006a1dd99
+28/10/2024  14:53                77 dca866c90bac1a348ccd039e9931e9d10df9c0
+               2 arquivo(s)            178 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\af
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               140 4701d79cef48855a4d71503a906e1fa654013f
+               1 arquivo(s)            140 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b1
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               104 26049a6d01937a108d536ff922c0e4b76e2756
+               1 arquivo(s)            104 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b2
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               290 8ea041decca92f39df34d16dcda76aa9134976
+               1 arquivo(s)            290 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b3
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               102 105de2deb5fd5768f3b3bdd5e40b2e33f6cb4f
+28/10/2024  14:52                63 fc0630f79110cd946fa3352a325a2173b4bb8f
+               2 arquivo(s)            165 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b4
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               246 98306cf66d8c0704a69ad05ef94726ad82be12
+               1 arquivo(s)            246 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b5
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               105 4e8476685613a6ba4138a2a460343a229f7480
+28/10/2024  15:45                77 5e24508ac88e2153ae3bc9f1a1e86cbb90190a
+               2 arquivo(s)            182 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b6
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               150 a38ab6a0675f286564232edb1cc295a7a0d216
+               1 arquivo(s)            150 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b7
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               390 9da06d131e736291d0bbcb96f5ed8fe969e8ec
+28/10/2024  14:52               177 c1589c001a0cc07b9a75d3358c0d86f370c443
+               2 arquivo(s)            567 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\b9
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52             4.175 02f5c570177092f81b28a49e103d01a9afba53
+28/10/2024  14:52               106 50e2221da1ee132f62eaf9b72f6141175a694c
+28/10/2024  14:52               139 a40c7fb2c4735474b10ff7c7509a1712c72bf7
+               3 arquivo(s)          4.420 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ba
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               612 25fb93c79dfa373a3c2e84729eea3fd21c1332
+               1 arquivo(s)            612 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\bb
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               106 4b1e2406ec5418f2bb690251628dde11afa468
+               1 arquivo(s)            106 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\bd
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                48 ca1efcfe08dbf1718af16817623e30e4e726f0
+               1 arquivo(s)             48 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\be
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                51 2a8f619573a9a09e28c7748f166500ed7d3c69
+28/10/2024  14:52               774 d39bd0023f95cb14103a125b936766087cafe7
+               2 arquivo(s)            825 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\bf
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                76 2e4ef9b4fb1a3759e24fd3536191ae0631f809
+28/10/2024  15:45                89 bc8143f634edb08433b9f74b87aed094106e73
+28/10/2024  15:44             2.041 cae00fd57da0f7638430699eb576d223aa1954
+28/10/2024  14:52               219 ed2fb94c41f0dc84a0d274807dcc1e22809a94
+               4 arquivo(s)          2.425 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\c2
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                84 2a8f51e829a03b10a36a6e01884fd621f01cb3
+28/10/2024  15:45               161 b8f59f9db34c58de39b8343605d7aced75301b
+28/10/2024  15:35           975.424 c407ddcea995d2dfd57ba3b839259f8322896f
+               3 arquivo(s)        975.669 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\c3
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               597 bd273790d1b006592b8951cfb83ef6e7348975
+               1 arquivo(s)            597 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\c4
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               132 b28d9f957019d4d5bdde850c6a5fd16a1f57c6
+               1 arquivo(s)            132 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\c5
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52             1.299 b5dc38b4f2a19a076b123f544b7aa7c562fbe1
+28/10/2024  15:45                99 ed559e95e8e597098cf37e5916555aff675a0f
+               2 arquivo(s)          1.398 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\c6
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               279 160924e29b1a54e322bccfd95f1a05f5277eca
+28/10/2024  14:52        18.349.432 9a3866524fb6776cdc7fead432da69bde84791
+               2 arquivo(s)     18.349.711 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\c8
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               209 ecb6374982453118135fd2b4dd6d10df7cf7b8
+               1 arquivo(s)            209 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\cb
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                58 3bb893ac46c5eb8e36f87f5a99e1e7dc469ecf
+28/10/2024  15:35               204 c0fa92383adba04ea6113bcc1c8a3d2fdd1350
+28/10/2024  14:52               317 e7dd08b701f155205d6cd6b67a8d18b4da33bf
+               3 arquivo(s)            579 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\cc
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                78 0d25a1643e6506d074725a0dc4e72e6cb83368
+28/10/2024  14:52               148 31ef2fddef4a61787178e8b8107aaacfe8c545
+               2 arquivo(s)            226 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\cd
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               274 7a177518ea7a2e6a6876ae8d0b7b44127b82ba
+28/10/2024  15:35               304 bc788598a4acd49c931d1f49aea5fb420f6d99
+               2 arquivo(s)            578 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ce
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53               142 de227d92744a70da5af7826386426c1a739486
+               1 arquivo(s)            142 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\cf
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52             1.703 20a8b019a39bbf2bf08b76435715ebe0b02268
+28/10/2024  15:45               404 84af5b178b2956a1e0e1c344813c8cf5540c22
+28/10/2024  15:45                51 ebd32413656d1cfd4a295d588d37c2956ee28d
+               3 arquivo(s)          2.158 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d0
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                57 daba63bff52ef1b83976577ccc6009eaf1aea6
+               1 arquivo(s)             57 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d1
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               230 0d199c9548127e947dc8f430ad34f4f8c1a522
+               1 arquivo(s)            230 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d2
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                71 a2da1ad7ad8ebab2bb1351e2129093862e681e
+28/10/2024  14:52                83 a31bd8ef68255ced72596a9f80b24a7d7bbd90
+28/10/2024  14:52               156 a9698e00a48989bd66d8adc1e3da431dab2a8e
+28/10/2024  14:52                64 ed60372e1ffd2baeae479b4df2d61c7c9f3a62
+               4 arquivo(s)            374 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d3
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52             1.356 d98702ab00b4ff0af4b2bb5299837c4fe3d996
+               1 arquivo(s)          1.356 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d4
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               101 bb905e7c660e9df20ec369be07cb55e332d6f4
+               1 arquivo(s)            101 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d5
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                93 6c53f151bf27a16afdcdce18f4154bdfe705c7
+28/10/2024  14:52               320 8d56e45172d7b809abb566ee4df84968ead3ff
+               2 arquivo(s)            413 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d6
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52                81 a900b49ebcd794559dac86da7b2d6a8b960915
+28/10/2024  14:53                60 cad3f00e8075c9401e4a42161ec55b091ce2b4
+               2 arquivo(s)            141 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d7
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               867 8766be46e23458a79033b344ebf209c2ca42bd
+28/10/2024  14:52               342 dd121428b5f1569530c757f2ca24de1ae26845
+               2 arquivo(s)          1.209 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d8
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               770 0c7fddcbf2b51579c47c7cf6acbb446aa5f309
+28/10/2024  14:53                76 81012edaa998395c6f116ec40806996418a2c5
+               2 arquivo(s)            846 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\d9
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               128 6619204673eb9c485113c6bb035beac1cfe647
+               1 arquivo(s)            128 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\dc
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               261 bdc801155d28b4b7b1a1deeecd0291a9cb1585
+28/10/2024  14:52               156 de5d44e7a0ac2f539401b4d633635ff9346f04
+               2 arquivo(s)            417 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\dd
+
+28/10/2024  15:44    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               548 27c0efff01a520124cbed7d6c384ccba298454
+28/10/2024  15:44               311 aee8408adf85c702137bcb233a74196c506348
+               2 arquivo(s)            859 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\de
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               379 5846e94efa605cd4b884b08072523440f08de4
+28/10/2024  14:52               163 6713e095aefda5c574f4faf271803cbc16198b
+               2 arquivo(s)            542 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e0
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               422 2f33630b00582c7ffc0606f413fd02631afa0d
+28/10/2024  14:52               606 331b9a392b4125b5c9f27d5b4c50309ecf75b2
+28/10/2024  15:35               326 f027dada4fd79a23ba988aee1230a1291fac85
+               3 arquivo(s)          1.354 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e1
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               116 c0f4c6541223702409cac14beeb6e885bf5822
+               1 arquivo(s)            116 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e2
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               298 65b7bd446b5f2b7216fb482102beab3ab90981
+28/10/2024  15:45                71 d9a6516757884d1b94ae34cfc67aa1464a6240
+               2 arquivo(s)            369 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e3
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               873 a72194479fb42b7a8f42743aba76b46662a4c3
+               1 arquivo(s)            873 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e5
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                98 771a3e2356c0de75b36ea32060484f91214081
+               1 arquivo(s)             98 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e6
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               1 arquivo(s)             15 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e8
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                77 55daabe0e6125a9aad2fc50ae650dc1d3312a7
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\e9
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               416 47625d4684b3f7af6d985bb2da40aac52663a1
+28/10/2024  14:52               201 a3ec20e4055c2c9162d722a58a9382b89c45d4
+28/10/2024  14:52               401 d99efedfb0c379537096e4de8ca6d521607927
+               3 arquivo(s)          1.018 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ea
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               146 711ebec1f84d4b7fc0e84e46a8eefb1d433f41
+28/10/2024  14:52               265 969765b09f7fc84fd00cc0d94b4a44c48cc509
+               2 arquivo(s)            411 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ec
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                55 231438ed85b34fb43db8cbbd24788a1c479889
+28/10/2024  14:53                68 3775de38a423513725b9c35be7dfccf3b47a65
+               2 arquivo(s)            123 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ed
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45                86 e1fdecf6151acdcf7b766ebc28bded34ec122e
+               1 arquivo(s)             86 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ef
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               194 1ced4f03933fe065d786170602851de72eb3a9
+28/10/2024  14:52               468 bd8b2d57bb15e15b3725df0634d371a27ed493
+               2 arquivo(s)            662 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f0
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               719 05caaceeacf7261b33cf50f19cd9ec7095c066
+28/10/2024  14:53                58 961dc3a5d60a7704a96e6e2632ef92aea764e8
+               2 arquivo(s)            777 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f2
+
+28/10/2024  15:35    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:35               284 8f6b7c76b22d12b891bcfb811f4f447daeadd3
+28/10/2024  14:53                48 feed6096cccaa49219607ceccb6959706f2cea
+               2 arquivo(s)            332 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f3
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                56 8a7825cf6bd9e267a408b17700c2ee0cf9b03e
+28/10/2024  14:52               140 95b7dc32c4b340f18645e948401250d09ce201
+               2 arquivo(s)            196 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f6
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               144 eb1cf43af3ca44067db3875eac8f380dbd2203
+               1 arquivo(s)            144 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f7
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               386 27be25571df788cbfe59b2dd37b21b59d7bc7d
+28/10/2024  14:52               220 abd73e3b23cb99a40952061f196861349accde
+               2 arquivo(s)            606 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f8
+
+28/10/2024  15:45    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  15:45               141 4cacceeadeae59de9a5e54589ce7c6f1a3a4a8
+28/10/2024  15:44               324 f562026948b9b0ec96d82aab448b5410cda901
+               2 arquivo(s)            465 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\f9
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                77 cb5d583bbd2d5945a3fcc2255b3225c5289430
+               1 arquivo(s)             77 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\fa
+
+28/10/2024  14:52    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               233 9721240d6bea628cc601fbc2a4f2a37c13de52
+               1 arquivo(s)            233 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\fd
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:53                53 902ce2906aed72391f4c60bf479f1954d98e3e
+28/10/2024  14:52               156 d4b3ee1faa9ef32f1ae3d769f4c0ac3d9a304f
+               2 arquivo(s)            209 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\ff
+
+28/10/2024  14:53    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+28/10/2024  14:52               135 459590285e58ffa8f0a98fb189649f55e064e4
+28/10/2024  14:53             2.956 550907cd2532a5075c59bb31d067cb5a0c4a85
+               2 arquivo(s)          3.091 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\info
+
+28/10/2024  14:51    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\objects\pack
+
+28/10/2024  14:51    <DIR>          .
+28/10/2024  15:48    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\refs
+
+28/10/2024  14:54    <DIR>          .
+28/10/2024  15:48    <DIR>          heads
+28/10/2024  14:54    <DIR>          remotes
+28/10/2024  14:51    <DIR>          tags
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\refs\heads
+
+28/10/2024  15:48    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+28/10/2024  15:48                41 main
+               1 arquivo(s)             41 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\refs\remotes
+
+28/10/2024  14:54    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+28/10/2024  15:48    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\refs\remotes\origin
+
+28/10/2024  15:48    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+28/10/2024  15:48                41 main
+               1 arquivo(s)             41 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.git\refs\tags
+
+28/10/2024  14:51    <DIR>          .
+28/10/2024  14:54    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata
+
+29/10/2024  10:53    <DIR>          .
+29/10/2024  11:57    <DIR>          ..
+29/10/2024  10:53                 0 .lock
+29/10/2024  11:22            46.112 .log
+29/10/2024  11:17    <DIR>          .plugins
+28/10/2024  13:58                 0 defender.check
+29/10/2024  11:22               103 version.ini
+               4 arquivo(s)         46.215 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins
+
+29/10/2024  11:17    <DIR>          .
+29/10/2024  10:53    <DIR>          ..
+28/10/2024  13:59    <DIR>          com.genuitec.eclipse.devstyle
+29/10/2024  11:22    <DIR>          com.genuitec.eclipse.ui.common.platform
+28/10/2024  13:59    <DIR>          org.eclipse.buildship.core
+29/10/2024  11:14    <DIR>          org.eclipse.core.resources
+28/10/2024  13:58    <DIR>          org.eclipse.core.runtime
+28/10/2024  14:11    <DIR>          org.eclipse.debug.core
+28/10/2024  14:47    <DIR>          org.eclipse.debug.ui
+28/10/2024  14:04    <DIR>          org.eclipse.e4.workbench
+28/10/2024  13:59    <DIR>          org.eclipse.egit.core
+29/10/2024  11:16    <DIR>          org.eclipse.jdt.core
+28/10/2024  14:00    <DIR>          org.eclipse.jdt.launching
+29/10/2024  10:39    <DIR>          org.eclipse.jdt.ui
+28/10/2024  13:59    <DIR>          org.eclipse.linuxtools.docker.core
+28/10/2024  13:59    <DIR>          org.eclipse.linuxtools.docker.ui
+28/10/2024  14:01    <DIR>          org.eclipse.ltk.core.refactoring
+28/10/2024  14:47    <DIR>          org.eclipse.ltk.ui.refactoring
+28/10/2024  13:59    <DIR>          org.eclipse.m2e.core
+28/10/2024  14:04    <DIR>          org.eclipse.m2e.jdt
+28/10/2024  13:58    <DIR>          org.eclipse.m2e.logback
+28/10/2024  14:02    <DIR>          org.eclipse.pde.api.tools
+28/10/2024  13:59    <DIR>          org.eclipse.pde.core
+28/10/2024  14:47    <DIR>          org.eclipse.tips.ide
+28/10/2024  14:01    <DIR>          org.eclipse.tm.terminal.view.ui
+29/10/2024  11:18    <DIR>          org.eclipse.ui.editors
+28/10/2024  15:34    <DIR>          org.eclipse.ui.ide
+29/10/2024  08:22    <DIR>          org.eclipse.ui.workbench
+29/10/2024  11:17    <DIR>          org.eclipse.userstorage.oauth
+28/10/2024  14:01    <DIR>          org.eclipse.wst.common.modulecore
+28/10/2024  14:01    <DIR>          org.eclipse.wst.server.core
+28/10/2024  13:59    <DIR>          org.springframework.ide.eclipse.boot
+28/10/2024  13:59    <DIR>          org.springframework.ide.eclipse.boot.dash
+28/10/2024  14:02    <DIR>          org.springframework.tooling.boot.ls
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\com.genuitec.eclipse.devstyle
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23             2.405 recent.json
+               1 arquivo(s)          2.405 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\com.genuitec.eclipse.ui.common.platform
+
+29/10/2024  11:22    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:22           137.425 color-definitions-fix.css
+29/10/2024  11:22               123 colors-org.eclipse.buildship.ui-1231266899.css
+29/10/2024  11:22             1.613 colors-org.eclipse.egit.ui-1849137576.css
+29/10/2024  11:22             1.276 colors-org.eclipse.epp.mpc.ui.css--1027399938.css
+29/10/2024  11:22             1.437 colors-org.eclipse.jdt.ui-326703266.css
+29/10/2024  11:22               203 splash-fix.css
+               6 arquivo(s)        142.077 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.buildship.core
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+28/10/2024  13:59    <DIR>          gradle
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.buildship.core\gradle
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+28/10/2024  13:59           204.464 versions.json
+               1 arquivo(s)        204.464 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  10:39    <DIR>          .history
+29/10/2024  11:14    <DIR>          .projects
+29/10/2024  11:23    <DIR>          .root
+29/10/2024  11:23    <DIR>          .safetable
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  08:26    <DIR>          11
+28/10/2024  14:15    <DIR>          12
+29/10/2024  10:39    <DIR>          13
+28/10/2024  15:34    <DIR>          2
+28/10/2024  14:47    <DIR>          29
+28/10/2024  14:40    <DIR>          2c
+28/10/2024  14:28    <DIR>          32
+29/10/2024  08:27    <DIR>          3a
+29/10/2024  08:53    <DIR>          3f
+28/10/2024  15:44    <DIR>          42
+28/10/2024  14:25    <DIR>          45
+29/10/2024  08:31    <DIR>          47
+29/10/2024  10:39    <DIR>          4f
+28/10/2024  15:27    <DIR>          51
+29/10/2024  09:02    <DIR>          55
+28/10/2024  15:44    <DIR>          5a
+28/10/2024  15:34    <DIR>          6
+29/10/2024  08:32    <DIR>          65
+28/10/2024  15:23    <DIR>          6b
+28/10/2024  14:01    <DIR>          6e
+28/10/2024  14:27    <DIR>          73
+28/10/2024  15:28    <DIR>          74
+28/10/2024  14:16    <DIR>          8f
+29/10/2024  08:26    <DIR>          90
+28/10/2024  14:47    <DIR>          98
+28/10/2024  14:26    <DIR>          b3
+28/10/2024  14:42    <DIR>          b7
+28/10/2024  15:26    <DIR>          bb
+28/10/2024  15:34    <DIR>          bd
+28/10/2024  14:26    <DIR>          c0
+28/10/2024  14:11    <DIR>          c1
+28/10/2024  14:47    <DIR>          c2
+29/10/2024  09:28    <DIR>          cf
+29/10/2024  10:39    <DIR>          d0
+28/10/2024  14:15    <DIR>          d3
+29/10/2024  08:34    <DIR>          d5
+28/10/2024  14:28    <DIR>          da
+28/10/2024  14:02    <DIR>          dd
+29/10/2024  08:35    <DIR>          e2
+28/10/2024  14:22    <DIR>          e3
+28/10/2024  14:26    <DIR>          e7
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\11
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  09:28               676 c01011aee895001f1d52fb4fbf0cf356
+               1 arquivo(s)            676 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\12
+
+28/10/2024  14:15    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:11               474 20f8924b5095001f1d7eac64b0cf4c1f
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\13
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:53               599 20ff7547fb95001f1d52fb4fbf0cf356
+               1 arquivo(s)            599 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\2
+
+28/10/2024  15:34    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:28               474 609b1b435b95001f10edd414b739bb84
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\29
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\2c
+
+28/10/2024  14:40    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:25                58 004f5cc55395001f1d7eac64b0cf4c1f
+               1 arquivo(s)             58 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\32
+
+28/10/2024  14:28    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:27               474 a03188ff5195001f1d7eac64b0cf4c1f
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\3a
+
+29/10/2024  08:27    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:27                 0 605285bce895001f1d52fb4fbf0cf356
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\3f
+
+29/10/2024  08:53    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:35               147 0071e774ec95001f1d52fb4fbf0cf356
+               1 arquivo(s)            147 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\42
+
+28/10/2024  15:44    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  15:34               702 40b643a65c95001f1169f5e636c3242c
+               1 arquivo(s)            702 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\45
+
+28/10/2024  14:25    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:25                 0 a088a4af5195001f1d7eac64b0cf4c1f
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\47
+
+29/10/2024  08:31    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:27               143 d07ad758e995001f1d52fb4fbf0cf356
+               1 arquivo(s)            143 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\4f
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  09:28               151 e0b57c47fb95001f1d52fb4fbf0cf356
+               1 arquivo(s)            151 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\51
+
+28/10/2024  15:27    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  15:26               637 b0f2753d5a95001f10edd414b739bb84
+               1 arquivo(s)            637 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\55
+
+29/10/2024  09:02    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  09:02                 0 c0a3c4b7ed95001f1d52fb4fbf0cf356
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\5a
+
+28/10/2024  15:44    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  15:28               665 202fe4ac5c95001f1169f5e636c3242c
+               1 arquivo(s)            665 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\6
+
+28/10/2024  15:34    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:47               683 204ba9455b95001f10edd414b739bb84
+               1 arquivo(s)            683 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\65
+
+29/10/2024  08:32    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:31               238 40e64a82e995001f1d52fb4fbf0cf356
+               1 arquivo(s)            238 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\6b
+
+28/10/2024  15:23    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  15:23                 0 00858dc15995001f10edd414b739bb84
+28/10/2024  14:01               360 9080dd4b4e95001f1d7eac64b0cf4c1f
+               2 arquivo(s)            360 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\6e
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:01                55 f020144c4e95001f1d7eac64b0cf4c1f
+               1 arquivo(s)             55 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\73
+
+28/10/2024  14:27    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:15               474 40d55ef45195001f1d7eac64b0cf4c1f
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\74
+
+28/10/2024  15:28    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  15:27               664 108377695a95001f10edd414b739bb84
+               1 arquivo(s)            664 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\8f
+
+28/10/2024  14:16    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:16                 0 703b186a5095001f1d7eac64b0cf4c1f
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\90
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  10:14               481 e0cf13aee895001f1d52fb4fbf0cf356
+               1 arquivo(s)            481 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\98
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\b3
+
+28/10/2024  14:26    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:26               600 f03d06bc5195001f1d7eac64b0cf4c1f
+               1 arquivo(s)            600 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\b7
+
+28/10/2024  14:42    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:40               769 808f2af05395001f1d7eac64b0cf4c1f
+               1 arquivo(s)            769 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\bb
+
+28/10/2024  15:26    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  15:23               147 00446c2d5a95001f10edd414b739bb84
+               1 arquivo(s)            147 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\bd
+
+28/10/2024  15:34    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:26               600 f0af61445b95001f10edd414b739bb84
+               1 arquivo(s)            600 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\c0
+
+28/10/2024  14:26    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:26               600 a0eb07bc5195001f1d7eac64b0cf4c1f
+               1 arquivo(s)            600 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\c1
+
+28/10/2024  14:11    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:02               147 e010f1a14f95001f1d7eac64b0cf4c1f
+               1 arquivo(s)            147 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\c2
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:42               780 f0cbacbb5495001f1d7eac64b0cf4c1f
+               1 arquivo(s)            780 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\cf
+
+29/10/2024  09:28    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  09:28                 0 307ccf56f195001f1d52fb4fbf0cf356
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\d0
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  09:02               152 90817947fb95001f1d52fb4fbf0cf356
+               1 arquivo(s)            152 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\d3
+
+28/10/2024  14:15    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:11               474 d0a5944b5095001f1d7eac64b0cf4c1f
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\d5
+
+29/10/2024  08:34    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:32               343 b00092bfe995001f1d52fb4fbf0cf356
+               1 arquivo(s)            343 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\da
+
+28/10/2024  14:28    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:27               474 206a89ff5195001f1d7eac64b0cf4c1f
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\dd
+
+28/10/2024  14:02    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:02                 0 60106d614e95001f1d7eac64b0cf4c1f
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\e2
+
+29/10/2024  08:35    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:35                 0 c0499dd8e995001f1d52fb4fbf0cf356
+               1 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\e3
+
+28/10/2024  14:22    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:16                58 b0cde7265195001f1d7eac64b0cf4c1f
+               1 arquivo(s)             58 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.history\e7
+
+28/10/2024  14:26    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+28/10/2024  14:22               600 d07e03bc5195001f1d7eac64b0cf4c1f
+               1 arquivo(s)            600 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  11:23    <DIR>          .org.eclipse.egit.core.cmp
+29/10/2024  11:23    <DIR>          aulalogica78
+29/10/2024  11:23    <DIR>          aulas.sincronas
+29/10/2024  11:23    <DIR>          helloworld
+29/10/2024  11:23    <DIR>          javaAtividade
+29/10/2024  11:23    <DIR>          src
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\.org.eclipse.egit.core.cmp
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+28/10/2024  13:59               167 .location
+               1 arquivo(s)            167 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  08:27    <DIR>          .indexes
+29/10/2024  08:21               112 .location
+29/10/2024  11:23             3.161 .markers
+29/10/2024  08:21    <DIR>          org.eclipse.egit.core
+29/10/2024  08:26    <DIR>          org.eclipse.jdt.apt.core
+29/10/2024  11:14    <DIR>          org.eclipse.jdt.core
+               2 arquivo(s)          3.273 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\.indexes
+
+29/10/2024  08:27    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  10:39    <DIR>          e4
+29/10/2024  08:21                80 properties.index
+               1 arquivo(s)             80 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\.indexes\e4
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  08:27    <DIR>          ..
+29/10/2024  08:27    <DIR>          e8
+29/10/2024  10:39    <DIR>          f
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\.indexes\e4\e8
+
+29/10/2024  08:27    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  08:27               131 history.index
+               1 arquivo(s)            131 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\.indexes\e4\f
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  10:39    <DIR>          ..
+29/10/2024  10:39               426 history.index
+               1 arquivo(s)            426 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\org.eclipse.egit.core
+
+29/10/2024  08:21    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  08:21                65 GitProjectData.properties
+               1 arquivo(s)             65 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\org.eclipse.jdt.apt.core
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulalogica78\org.eclipse.jdt.core
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:14               979 state.dat
+               1 arquivo(s)            979 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulas.sincronas
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  08:21    <DIR>          .indexes
+29/10/2024  08:21                99 .location
+29/10/2024  11:23               202 .markers
+29/10/2024  08:21    <DIR>          org.eclipse.egit.core
+29/10/2024  08:26    <DIR>          org.eclipse.jdt.apt.core
+               2 arquivo(s)            301 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulas.sincronas\.indexes
+
+29/10/2024  08:21    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  08:21                80 properties.index
+               1 arquivo(s)             80 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulas.sincronas\org.eclipse.egit.core
+
+29/10/2024  08:21    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  08:21                62 GitProjectData.properties
+               1 arquivo(s)             62 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\aulas.sincronas\org.eclipse.jdt.apt.core
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\helloworld
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  08:21    <DIR>          .indexes
+29/10/2024  08:21               110 .location
+29/10/2024  11:23               244 .markers
+29/10/2024  08:21    <DIR>          org.eclipse.egit.core
+29/10/2024  11:14    <DIR>          org.eclipse.jdt.core
+               2 arquivo(s)            354 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\helloworld\.indexes
+
+29/10/2024  08:21    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  08:21                80 properties.index
+               1 arquivo(s)             80 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\helloworld\org.eclipse.egit.core
+
+29/10/2024  08:21    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  08:21                65 GitProjectData.properties
+               1 arquivo(s)             65 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\helloworld\org.eclipse.jdt.core
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:14               416 state.dat
+               1 arquivo(s)            416 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+28/10/2024  14:02    <DIR>          .indexes
+28/10/2024  14:05    <DIR>          org.eclipse.jdt.apt.core
+29/10/2024  11:14    <DIR>          org.eclipse.jdt.core
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade\.indexes
+
+28/10/2024  14:02    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+28/10/2024  14:01    <DIR>          af
+28/10/2024  14:15    <DIR>          e4
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade\.indexes\af
+
+28/10/2024  14:01    <DIR>          .
+28/10/2024  14:02    <DIR>          ..
+28/10/2024  14:01                70 history.index
+               1 arquivo(s)             70 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade\.indexes\e4
+
+28/10/2024  14:15    <DIR>          .
+28/10/2024  14:02    <DIR>          ..
+28/10/2024  14:15    <DIR>          5
+28/10/2024  14:02                54 history.index
+               1 arquivo(s)             54 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade\.indexes\e4\5
+
+28/10/2024  14:15    <DIR>          .
+28/10/2024  14:15    <DIR>          ..
+28/10/2024  20:28             1.184 history.index
+               1 arquivo(s)          1.184 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade\org.eclipse.jdt.apt.core
+
+28/10/2024  14:05    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\javaAtividade\org.eclipse.jdt.core
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:14               676 state.dat
+               1 arquivo(s)            676 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\src
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  11:14    <DIR>          .indexes
+29/10/2024  11:14               117 .location
+29/10/2024  11:23               166 .markers
+29/10/2024  11:14    <DIR>          org.eclipse.egit.core
+29/10/2024  11:14    <DIR>          org.eclipse.jdt.core
+               2 arquivo(s)            283 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\src\.indexes
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:14                80 properties.index
+               1 arquivo(s)             80 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\src\org.eclipse.egit.core
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:14                68 GitProjectData.properties
+               1 arquivo(s)             68 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.projects\src\org.eclipse.jdt.core
+
+29/10/2024  11:14    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:14               653 state.dat
+               1 arquivo(s)            653 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.root
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+28/10/2024  14:47    <DIR>          .indexes
+29/10/2024  11:23            13.910 11.tree
+               1 arquivo(s)         13.910 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  11:23    <DIR>          ..
+29/10/2024  11:23                 1 history.version
+29/10/2024  11:23               202 properties.index
+29/10/2024  11:23                 1 properties.version
+               3 arquivo(s)            204 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.resources\.safetable
+
+29/10/2024  11:23    <DIR>          .
+29/10/2024  11:14    <DIR>          ..
+29/10/2024  11:23             1.108 org.eclipse.core.resources
+               1 arquivo(s)          1.108 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.runtime
+
+28/10/2024  13:58    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23    <DIR>          .settings
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.core.runtime\.settings
+
+29/10/2024  11:23    <DIR>          .
+28/10/2024  13:58    <DIR>          ..
+28/10/2024  13:59            11.471 ccw.core.prefs
+28/10/2024  13:59             2.938 com.adobe.flexide.as.core.prefs
+28/10/2024  13:59             2.562 com.adobe.flexide.css.core.prefs
+28/10/2024  13:59             1.744 com.adobe.flexide.mxml.core.prefs
+28/10/2024  13:59             3.631 com.axmor.eclipse.typescript.editor.prefs
+28/10/2024  13:59             1.258 com.dubture.twig.ui.prefs
+28/10/2024  13:59                99 com.genuitec.eclipse.codetogether.ui.prefs
+28/10/2024  13:59               344 com.genuitec.eclipse.sqlexplorer.prefs
+29/10/2024  11:23               387 com.genuitec.eclipse.theming.ui.prefs
+28/10/2024  13:59                81 com.github.eclipsecolortheme.prefs
+28/10/2024  13:59             1.828 com.github.rustdt.ide.ui.prefs
+28/10/2024  13:59             6.378 com.google.eclipse.protobuf.Protobuf.prefs
+28/10/2024  13:59               844 com.googlecode.goclipse.ui.prefs
+28/10/2024  13:59               664 com.palantir.typescript.prefs
+28/10/2024  13:59            43.275 com.powerflasher.fdt.ui.prefs
+28/10/2024  13:59             1.293 com.puppetlabs.geppetto.module.dsl.Module.prefs
+28/10/2024  13:59             4.092 com.puppetlabs.geppetto.pp.dsl.PP.prefs
+28/10/2024  13:59               622 com.spket.js.prefs
+28/10/2024  13:59               348 com.spket.xml.prefs
+28/10/2024  13:59             1.236 com.wolfram.eclipse.MEET.prefs
+28/10/2024  13:59               451 de.walware.statet.base.ui.prefs
+28/10/2024  13:59             8.277 de.walware.statet.r.ui.prefs
+28/10/2024  13:59                47 Docker.prefs
+28/10/2024  13:59             1.148 eclihx.ui.prefs
+28/10/2024  13:59               237 jp.gr.java_conf.ussiy.app.propedit.prefs
+28/10/2024  13:59               192 jsonedit-core.prefs
+28/10/2024  13:59               609 net.sf.eclipsefp.haskell.ui.prefs
+28/10/2024  13:59               589 net.sourceforge.texlipse.prefs
+28/10/2024  13:59             2.479 net.vtst.ow.eclipse.less.Less.prefs
+28/10/2024  13:59               322 org.apache.ivyde.eclipse.prefs
+28/10/2024  13:59             1.337 org.cfeclipse.cfml.prefs
+28/10/2024  13:59               277 org.chromium.debug.ui.prefs
+28/10/2024  13:59             4.092 org.cloudsmith.geppetto.pp.dsl.PP.prefs
+28/10/2024  13:59            12.122 org.codehaus.groovy.eclipse.ui.prefs
+28/10/2024  13:59               655 org.dadacoalition.yedit.prefs
+28/10/2024  13:59               388 org.eclipse.angularjs.ui.prefs
+28/10/2024  15:23               908 org.eclipse.ant.ui.prefs
+28/10/2024  13:59               253 org.eclipse.cdt.dsf.ui.prefs
+28/10/2024  13:59               605 org.eclipse.cdt.make.ui.prefs
+28/10/2024  13:59            11.976 org.eclipse.cdt.ui.prefs
+29/10/2024  11:17                58 org.eclipse.core.resources.prefs
+28/10/2024  13:59               456 org.eclipse.datatools.sqltools.sqleditor.prefs
+29/10/2024  11:23               343 org.eclipse.debug.ui.prefs
+28/10/2024  13:59             7.402 org.eclipse.dltk.ruby.ui.prefs
+28/10/2024  13:59             6.100 org.eclipse.dltk.tcl.ui.prefs
+28/10/2024  13:59             1.361 org.eclipse.e4.CSS.prefs
+28/10/2024  13:59               119 org.eclipse.e4.ui.css.swt.theme.prefs
+29/10/2024  11:14               314 org.eclipse.egit.core.prefs
+28/10/2024  13:59                87 org.eclipse.epp.mpc.ui.prefs
+28/10/2024  14:02               280 org.eclipse.jdt.core.prefs
+28/10/2024  14:11                99 org.eclipse.jdt.debug.ui.prefs
+28/10/2024  14:02               107 org.eclipse.jdt.junit.prefs
+28/10/2024  15:34               637 org.eclipse.jdt.launching.prefs
+29/10/2024  11:23               360 org.eclipse.jdt.ui.prefs
+28/10/2024  13:59                89 org.eclipse.jsch.core.prefs
+28/10/2024  13:59               654 org.eclipse.jst.jsp.ui.prefs
+28/10/2024  13:59               119 org.eclipse.m2e.apt.prefs
+28/10/2024  14:47                73 org.eclipse.m2e.discovery.prefs
+28/10/2024  13:59               610 org.eclipse.mylyn.wikitext.ui.prefs
+28/10/2024  14:02                50 org.eclipse.pde.api.tools.prefs
+29/10/2024  11:15             1.194 org.eclipse.pde.ui.prefs
+28/10/2024  13:59            17.387 org.eclipse.php.ui.prefs
+28/10/2024  13:59               244 org.eclipse.team.cvs.ui.prefs
+29/10/2024  10:53               107 org.eclipse.tm.terminal.control.prefs
+28/10/2024  14:47                73 org.eclipse.tm4e.ui.prefs
+29/10/2024  11:23               260 org.eclipse.ui.editors.prefs
+29/10/2024  11:19               107 org.eclipse.ui.genericeditor.prefs
+28/10/2024  13:59               101 org.eclipse.ui.ide.prefs
+29/10/2024  11:23               506 org.eclipse.ui.workbench.prefs
+28/10/2024  13:59             1.424 org.eclipse.wst.css.ui.prefs
+28/10/2024  13:59               569 org.eclipse.wst.dtd.ui.prefs
+28/10/2024  13:59             1.100 org.eclipse.wst.html.ui.prefs
+28/10/2024  13:59             3.094 org.eclipse.wst.jsdt.ui.prefs
+29/10/2024  10:53               604 org.eclipse.wst.sse.ui.prefs
+28/10/2024  13:59             1.429 org.eclipse.wst.xml.ui.prefs
+28/10/2024  13:59               360 org.eclipse.wst.xsl.ui.prefs
+28/10/2024  13:59             2.190 org.eclipse.xtend.core.Xtend.prefs
+28/10/2024  13:59             2.646 org.epic.perleditor.prefs
+28/10/2024  13:59             1.403 org.erlide.ui.prefs
+28/10/2024  13:59               396 org.jboss.ide.eclipse.freemarker.prefs
+28/10/2024  13:59               277 org.nodeclipse.enide.editors.gradle.prefs
+28/10/2024  13:59               277 org.nodeclipse.enide.editors.jade.prefs
+28/10/2024  13:59             1.060 org.python.pydev.prefs
+28/10/2024  13:59             2.497 org.scala-ide.play2.prefs
+28/10/2024  13:59             6.649 org.scala-ide.sdt.core.prefs
+28/10/2024  13:59               192 org.sourceforge.jsonedit-core.prefs
+28/10/2024  14:47                72 org.springframework.ide.eclipse.boot.dash.prefs
+28/10/2024  14:47                71 org.springframework.ide.eclipse.boot.launch.prefs
+28/10/2024  13:59               104 org.springframework.ide.eclipse.imports.prefs
+28/10/2024  13:59                85 org.springsource.ide.eclipse.commons.ui.prefs
+28/10/2024  13:59             1.329 org.sweetlemonade.eclipse.json.prefs
+28/10/2024  13:59               196 winterwell.markdown.prefs
+              92 arquivo(s)        199.380 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.debug.core
+
+28/10/2024  14:11    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  08:53    <DIR>          .launches
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.debug.core\.launches
+
+29/10/2024  08:53    <DIR>          .
+28/10/2024  14:11    <DIR>          ..
+28/10/2024  14:29               831 Exercicio01.launch
+28/10/2024  14:40               829 Exercicio3.launch
+28/10/2024  15:26               829 Exercicio4.launch
+29/10/2024  08:31               816 If.launch
+29/10/2024  08:53               824 IfElse.launch
+               5 arquivo(s)          4.129 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.debug.ui
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  10:39               631 dialog_settings.xml
+29/10/2024  11:23             2.857 launchConfigurationHistory.xml
+               2 arquivo(s)          3.488 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.e4.workbench
+
+28/10/2024  14:04    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23           394.695 workbench.xmi
+               1 arquivo(s)        394.695 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.egit.core
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+28/10/2024  13:59    <DIR>          .org.eclipse.egit.core.cmp
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.egit.core\.org.eclipse.egit.core.cmp
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+28/10/2024  13:59               230 .project
+28/10/2024  13:59    <DIR>          .settings
+               1 arquivo(s)            230 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.egit.core\.org.eclipse.egit.core.cmp\.settings
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+28/10/2024  13:59                57 org.eclipse.core.resources.prefs
+               1 arquivo(s)             57 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.jdt.core
+
+29/10/2024  11:16    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:14             2.176 1067094681.index
+29/10/2024  11:15        40.268.735 1425069032.index
+29/10/2024  11:16         2.894.452 1865797976.index
+29/10/2024  11:14             3.847 2213488049.index
+29/10/2024  08:22               777 54703828.index
+28/10/2024  20:28             2.180 70305881.index
+29/10/2024  11:23                 4 assumedExternalFilesCache
+29/10/2024  11:23               425 externalFilesCache
+29/10/2024  11:23               224 externalLibsTimeStamps
+29/10/2024  11:14                20 indexNamesMap.txt
+28/10/2024  14:01                 4 javaLikeNames.txt
+29/10/2024  11:23               216 nonChainingJarsCache
+29/10/2024  11:15               199 savedIndexNames.txt
+29/10/2024  11:23               947 variablesAndContainers.dat
+              14 arquivo(s)     43.174.206 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.jdt.launching
+
+28/10/2024  14:00    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23               545 .install.xml
+28/10/2024  14:00               827 libraryInfos.xml
+               2 arquivo(s)          1.372 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.jdt.ui
+
+29/10/2024  10:39    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:14             6.545 dialog_settings.xml
+29/10/2024  11:23                76 OpenTypeHistory.xml
+29/10/2024  11:23               169 QualifiedTypeNameHistory.xml
+               3 arquivo(s)          6.790 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.linuxtools.docker.core
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.linuxtools.docker.ui
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  08:26    <DIR>          .refactorings
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings
+
+29/10/2024  08:26    <DIR>          .
+28/10/2024  14:01    <DIR>          ..
+28/10/2024  14:01    <DIR>          .workspace
+29/10/2024  08:26    <DIR>          aulalogica78
+28/10/2024  14:15    <DIR>          javaAtividade
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  08:26    <DIR>          ..
+28/10/2024  14:01    <DIR>          2024
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2024
+
+28/10/2024  14:01    <DIR>          .
+28/10/2024  14:01    <DIR>          ..
+28/10/2024  14:01    <DIR>          10
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2024\10
+
+28/10/2024  14:01    <DIR>          .
+28/10/2024  14:01    <DIR>          ..
+28/10/2024  14:01    <DIR>          44
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2024\10\44
+
+28/10/2024  14:01    <DIR>          .
+28/10/2024  14:01    <DIR>          ..
+28/10/2024  14:01               352 refactorings.history
+28/10/2024  14:01                47 refactorings.index
+               2 arquivo(s)            399 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\aulalogica78
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  08:26    <DIR>          ..
+29/10/2024  08:26    <DIR>          2024
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\aulalogica78\2024
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  08:26    <DIR>          ..
+29/10/2024  08:26    <DIR>          10
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\aulalogica78\2024\10
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  08:26    <DIR>          ..
+29/10/2024  08:26    <DIR>          44
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\aulalogica78\2024\10\44
+
+29/10/2024  08:26    <DIR>          .
+29/10/2024  08:26    <DIR>          ..
+29/10/2024  08:26               744 refactorings.history
+29/10/2024  08:26                44 refactorings.index
+               2 arquivo(s)            788 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\javaAtividade
+
+28/10/2024  14:15    <DIR>          .
+29/10/2024  08:26    <DIR>          ..
+28/10/2024  14:15    <DIR>          2024
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\javaAtividade\2024
+
+28/10/2024  14:15    <DIR>          .
+28/10/2024  14:15    <DIR>          ..
+28/10/2024  14:15    <DIR>          10
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\javaAtividade\2024\10
+
+28/10/2024  14:15    <DIR>          .
+28/10/2024  14:15    <DIR>          ..
+28/10/2024  14:15    <DIR>          44
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\javaAtividade\2024\10\44
+
+28/10/2024  14:15    <DIR>          .
+28/10/2024  14:15    <DIR>          ..
+28/10/2024  14:28             2.826 refactorings.history
+28/10/2024  14:28               173 refactorings.index
+               2 arquivo(s)          2.999 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ltk.ui.refactoring
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  10:39               458 dialog_settings.xml
+               1 arquivo(s)            458 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.m2e.core
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23               538 workspaceState.ser
+               1 arquivo(s)            538 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.m2e.jdt
+
+28/10/2024  14:04    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.m2e.logback
+
+28/10/2024  13:58    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:19             1.461 0.log
+28/10/2024  13:58             1.691 logback.2.6.1.20240411-1122.xml
+               2 arquivo(s)          3.152 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.pde.api.tools
+
+28/10/2024  14:02    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.pde.core
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+28/10/2024  14:47    <DIR>          .cache
+28/10/2024  13:59    <DIR>          .p2
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.pde.core\.cache
+
+28/10/2024  14:47    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+29/10/2024  11:14                51 clean-cache.properties
+               1 arquivo(s)             51 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.pde.core\.p2
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+28/10/2024  13:59    <DIR>          org.eclipse.equinox.p2.engine
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+28/10/2024  13:59    <DIR>          profileRegistry
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.tips.ide
+
+28/10/2024  14:47    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23               358 dialog_settings.xml
+               1 arquivo(s)            358 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.tm.terminal.view.ui
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+28/10/2024  14:01    <DIR>          .executables
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.tm.terminal.view.ui\.executables
+
+28/10/2024  14:01    <DIR>          .
+28/10/2024  14:01    <DIR>          ..
+28/10/2024  14:01               204 data.properties
+               1 arquivo(s)            204 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ui.editors
+
+29/10/2024  11:18    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23               139 dialog_settings.xml
+               1 arquivo(s)            139 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ui.ide
+
+28/10/2024  15:34    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:23             3.600 dialog_settings.xml
+               1 arquivo(s)          3.600 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.ui.workbench
+
+29/10/2024  08:22    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+29/10/2024  11:18               878 dialog_settings.xml
+29/10/2024  11:22               671 workingsets.xml
+               2 arquivo(s)          1.549 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.userstorage.oauth
+
+29/10/2024  11:17    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.wst.common.modulecore
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.wst.server.core
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.springframework.ide.eclipse.boot
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+28/10/2024  13:59    <DIR>          installs
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.springframework.ide.eclipse.boot\installs
+
+28/10/2024  13:59    <DIR>          .
+28/10/2024  13:59    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.springframework.ide.eclipse.boot.dash
+
+28/10/2024  13:59    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.springframework.tooling.boot.ls
+
+28/10/2024  14:02    <DIR>          .
+29/10/2024  11:17    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\javaAtividade
+
+29/10/2024  11:53    <DIR>          .
+29/10/2024  11:57    <DIR>          ..
+28/10/2024  14:01               396 .classpath
+28/10/2024  14:01               389 .project
+28/10/2024  14:01    <DIR>          .settings
+29/10/2024  11:25    <DIR>          bin
+29/10/2024  11:25    <DIR>          src
+               2 arquivo(s)            785 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\javaAtividade\.settings
+
+28/10/2024  14:01    <DIR>          .
+29/10/2024  11:53    <DIR>          ..
+28/10/2024  14:01                57 org.eclipse.core.resources.prefs
+28/10/2024  14:01               594 org.eclipse.jdt.core.prefs
+               2 arquivo(s)            651 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\javaAtividade\bin
+
+29/10/2024  11:25    <DIR>          .
+29/10/2024  11:53    <DIR>          ..
+29/10/2024  11:14               226 .classpath
+29/10/2024  11:14               379 .project
+29/10/2024  11:25    <DIR>          javaAtividade
+29/10/2024  11:25               152 module-info.class
+               3 arquivo(s)            757 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\javaAtividade\bin\javaAtividade
+
+29/10/2024  11:25    <DIR>          .
+29/10/2024  11:25    <DIR>          ..
+29/10/2024  11:25             1.365 Exercicio01.class
+29/10/2024  11:25             1.490 Exercicio2.class
+29/10/2024  11:25             1.505 Exercicio3.class
+29/10/2024  11:25             1.610 Exercicio4.class
+               4 arquivo(s)          5.970 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\javaAtividade\src
+
+29/10/2024  11:25    <DIR>          .
+29/10/2024  11:53    <DIR>          ..
+29/10/2024  11:14               226 .classpath
+29/10/2024  11:14               379 .project
+29/10/2024  11:25    <DIR>          javaAtividade
+29/10/2024  11:25               152 module-info.class
+28/10/2024  14:01                55 module-info.java
+               4 arquivo(s)            812 bytes
+
+ Pasta de C:\Users\daffn\Documents\java.atividades\javaAtividade\src\javaAtividade
+
+29/10/2024  11:25    <DIR>          .
+29/10/2024  11:25    <DIR>          ..
+29/10/2024  11:25             1.365 Exercicio01.class
+28/10/2024  15:34               485 Exercicio01.java
+29/10/2024  11:25             1.490 Exercicio2.class
+28/10/2024  15:34               615 Exercicio2.java
+29/10/2024  11:25             1.505 Exercicio3.class
+28/10/2024  15:44               698 Exercicio3.java
+29/10/2024  11:25             1.610 Exercicio4.class
+28/10/2024  15:44               663 Exercicio4.java
+               8 arquivo(s)          8.431 bytes
+
+     Total de Arquivos na Lista:
+             594 arquivo(s)     65.850.669 bytes
+            1015 pasta(s)   957.605.339.136 bytes dispon°veis
