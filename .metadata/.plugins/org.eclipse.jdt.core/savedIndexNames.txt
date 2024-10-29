@@ -1,7 +1,0 @@
-INDEX VERSION 1.134+C:\Users\daffn\Documents\java.atividades\.metadata\.plugins\org.eclipse.jdt.core
-2213488049.index
-1865797976.index
-54703828.index
-1425069032.index
-70305881.index
-1067094681.index
